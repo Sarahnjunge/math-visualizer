@@ -4,7 +4,7 @@ import random
 
 # 1. Screen Setup
 screen = turtle.Screen()
-screen.title("Python Snake Game")
+screen.title("Python Simple Snake Game")
 screen.bgcolor("black")
 screen.setup(width=600, height=600)
 screen.tracer(0)  # Turns off-screen updates for smoother animation
